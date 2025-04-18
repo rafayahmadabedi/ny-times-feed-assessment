@@ -24,14 +24,25 @@ A React application that displays the most popular articles from NY Times API wi
    cd ny-times-feed-assessment
    ```
 2. Install dependencies:
+   ```bash
    npm install
+   ```
 
 ## Available Scripts
 
 1. Run the application
+   ```bash
    npm run dev
+   ```
 2. Run tests
+   ```bash
    npm test
+   ```
+   Watch Mode
+   ```bash
    npm test -- --watch
+   ```
 3. Generate coverage report
+   ```bash
    npm run test:coverage
+   ```
